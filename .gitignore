@@ -1,1 +1,5 @@
 /target
+
+*callgrind
+*.dot
+*.png
